@@ -2,7 +2,7 @@ import openai
 from scraper import scrape_website
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "ADD YOUR OPENAI API KEY HERE"
 
 def ask_chatgpt(prompt):
     try:
