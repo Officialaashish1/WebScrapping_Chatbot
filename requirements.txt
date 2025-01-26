@@ -1,0 +1,4 @@
+openai
+beautifulsoup4
+requests
+Use the API key to access on www.huggingface.com
